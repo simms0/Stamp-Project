@@ -6,13 +6,13 @@ This project was founded out of frustration with the store and stamp pages of th
 current Canadian stamps.
 
 ###Basic Capabilities
-  -Sort and filter stamps by:
-    -size
-    -price
-    -format
-    -release date
-    -availability
+  *Sort and filter stamps by:
+    *size
+    *price
+    *format
+    *release date
+    *availability
 
 ###Possible Future Expansion
-  -Add support for other postal services
-  -integrate a more useful cart structure for shopping
+  *Add support for other postal services
+  *integrate a more useful cart structure for shopping
