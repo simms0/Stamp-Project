@@ -7,15 +7,10 @@ current Canadian stamps.
 
 ###Basic Capabilities
   *Sort and filter stamps by:
-  
     *size
-    
     *price
-    
     *format
-    
     *release date
-    
     *availability
 
 ###Possible Future Expansion
